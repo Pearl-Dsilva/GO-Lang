@@ -1,0 +1,2 @@
+## Lab 1-4
+Utilize the principles of Variables, Control Flow, Arrays, Slices, Maps, and Structs within a specified domain of your choice. Begin the program with a comprehensive overview detailing the scenario and the concepts being implemented. Ensure adequate comments are provided throughout the code. 
